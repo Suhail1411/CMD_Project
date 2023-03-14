@@ -1,0 +1,20 @@
+{
+  "posts": [
+    {
+      "id":1,
+      "username":"Suhail",
+      "age":22,
+      "address":"Tumkur",
+      "phone":76763785737,
+      "email": "Suhail@123.com"
+    },
+    {
+      "id":2,
+      "username":"Suhail",
+      "age":22,
+      "address":"Tumkur",
+      "phone":76763785737,
+      "email": "Suhail@123.com"
+    }
+  ]
+}
